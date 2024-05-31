@@ -6,3 +6,4 @@ Simply provide the DCN for each claim, and our macro will handle the rest, adher
 
 ![image](https://github.com/Syedmustafa177/IBM-Reflection-Claims-Adjustment-Macro/assets/113262233/be95271c-1266-4c77-8ea5-8deb206b26f3)
 
+Due to company policies, we are unable to disclose the specifics of the project.
